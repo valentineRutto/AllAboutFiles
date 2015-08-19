@@ -8,4 +8,4 @@ module AllAboutFiles
         myFile=File.open(file)
         puts myFile.read()
     end
-    end
+end
